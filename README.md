@@ -1,7 +1,3 @@
-# Curly - Simple Non-Blocking HTTP Client
-
-A lightweight C wrapper around libcurl providing a simple non-blocking HTTP client interface.
-
 ## Features
 
 - Non-blocking asynchronous HTTP requests
