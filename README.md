@@ -1,2 +1,1 @@
-# GCW
-Garfields Curl Wrapper
+# Curly
